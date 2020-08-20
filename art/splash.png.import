@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/splash.png-e9c8aa82388a258833ef26f5060a0fa6.image"
+
+[deps]
+
+source_file="res://art/splash.png"
+dest_files=[ "res://.import/splash.png-e9c8aa82388a258833ef26f5060a0fa6.image" ]
+
+[params]
+

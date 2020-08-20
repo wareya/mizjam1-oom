@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/pathfinder.ogg-c36b0a9a0fdb40be944a7c285adb6891.oggstr"
+
+[deps]
+
+source_file="res://audio/pathfinder.ogg"
+dest_files=[ "res://.import/pathfinder.ogg-c36b0a9a0fdb40be944a7c285adb6891.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=13.964
